@@ -2,3 +2,4 @@ Makefile
 build/
 *.app
 qrc_resources.cpp
+.qmake.stash
