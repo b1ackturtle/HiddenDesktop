@@ -1,0 +1,4 @@
+Makefile
+build/
+*.app
+qrc_resources.cpp
